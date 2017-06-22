@@ -1,0 +1,23 @@
+﻿body { margin-left: 25px; }
+
+.section {
+    background-color: #efefef;
+    height: 800px;
+}
+
+.container {
+    margin-left: 10px;
+    margin-top: -15px;
+    width: 99%;
+}
+
+textarea {
+    -webkit-box-shadow: 0px 0px 0px 0px;
+    background: transparent;
+    border: 0px;
+    box-shadow: 0px 0px 0px 0px;
+    font-size: 11pt;
+    font-weight: bold;
+    height: 400px;
+    width: 99%;
+}
